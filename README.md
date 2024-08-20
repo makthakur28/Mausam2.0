@@ -2,7 +2,7 @@
 
 **MAUSAM2.0** is a Flutter-based weather app that provides real-time weather updates for any city worldwide using the OpenWeatherMap API. With its clean UI and intuitive design, MAUSAM2.0 makes it easy to get current weather conditions, including temperature, humidity, wind speed, and more.
 
-![MAUSAM2.0 Screenshot](https://github.com/makthakur28/Mausam2.0/raw/main/assets/your-image-file.png)
+![MAUSAM2.0 Screenshot](https://github.com/makthakur28/Mausam2.0/blob/master/thumbnail.jpg?raw=true)
 
 ## Features
 
